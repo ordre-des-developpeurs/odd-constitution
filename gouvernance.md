@@ -2,22 +2,22 @@
 
 ## Résumé
 
-Les règles qui doivent régir l'ordre ne doivent jamais permettre de favoriser un ou plusieurs membres de l'ordre
+Les règles qui doivent régir l'ordre ne doivent jamais permettre de favoriser un ou plusieurs membres de l'ordre.
 
-L'opinion d'un maximum de membres doit être prise en compte
+Chaque membre doit avoir l'opportunité de donner son avis.
 
-L'ordre doit être résilient à des tentatives d'en faire une organisation commerciale
+L'ordre doit être résilient à des tentatives d'en faire une organisation commerciale.
 
-L'ordre doit garantir un code de conduite, sans tomber dans le dogmatisme
+L'ordre doit garantir un code de conduite, sans tomber dans le dogmatisme.
 
-L'ordre se doit donc d'être fondamentalement démocratique, dans le vrai sens du terme : trouver un consensus plutôt que s'appuyer sur un pouvoir de coercition pour forcer ses membres à suivre un code auquel ils ne croient pas. 
+L'ordre se doit donc d'être fondamentalement démocratique, dans le vrai sens du terme : trouver un consensus plutôt que s'appuyer sur un pouvoir de coercition pour forcer ses membres à suivre un code auquel ils ne croient pas.
 
 
 ## Pas de vote
 
-Même s'il semble intéressant en premier lieu de faire voter les membres de l'ordre, il s'avère que le vote est plus un mécanisme pour contraindre ceux qui ne sont pas d'accord de suivre une décision qui n'est pas la leur. 
+Même s'il semble intéressant en premier lieu de faire voter les membres de l'ordre, il s'avère que le vote est plus un mécanisme pour contraindre ceux qui ne sont pas d'accord de suivre une décision qui n'est pas la leur.
 
-Le consensus semble donc être la seule voie acceptable, même si c'est la plus dur. 
+Le consensus semble donc être la seule voie acceptable, même si c'est la plus dur. Le strict minimun est donc de garantir que tout le monde est l'opportunité d'être entendu
 
 ## Tirage au sort
 
