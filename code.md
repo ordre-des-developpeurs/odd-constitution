@@ -1,14 +1,14 @@
 # Le code de conduite
 
-Pour avoir le droit de mériter le titre de professionnel, et que nos décisions ne soient plus discutées et remises en compte par des personnes sans connaissances techniques, nous devons dans un premier temps suivre un code de conduite nous rendant responsable. 
-Cette attitude permet de changer la vision que le monde a de nous, et de là, rendre caduc les relations de force qui jusque là animaient nos relations avec les différents intervenants des projets. 
+Pour avoir le droit de mériter le titre de professionnel, et que nos décisions ne soient plus discutées et remises en compte par des personnes sans connaissances techniques, nous devons dans un premier temps suivre un code de conduite nous rendant responsables. 
+Cette attitude permet de changer la vision que le monde a de nous, et de là, rendre caduques les relations de force qui jusque là animaient nos relations avec les différents intervenants des projets.
 
 ## Premièrement, ne pas faire de mal
 
 Notre profession a une certaine responsabilité dans le monde qui nous entoure : nous produisons des logiciels ayant un impact sur grand nombre d'aspects de la vie quotidienne. 
 Nous ne pouvons pas nous cacher derrière des excuses plus ou moins douteuses pour fuir nos responsabilités : 
 
-Nous sommes auteurs des bugs, ils sont notre responsabilité
+Nous sommes auteurs des bugs, ils sont notre responsabilité.
 
 ### Ne pas faire de mal aux utilisateurs
 
@@ -22,7 +22,7 @@ Le développeur professionnel sait que ses choix peuvent avoir un impact négati
 
 ### Ne pas nous faire de mal à nous même
 
-Le développeur professionnel cherche à tirer une satisfaction dans la pratique de sa discipline. Il sait donc que tout choix qui va à l'encontre de son éthique ne feront donc que baisser son envi et sa motivation à continuer le projet. 
+Le développeur professionnel cherche à tirer une satisfaction dans la pratique de sa discipline. Il sait donc que tout choix qui va à l'encontre de son éthique ne feront donc que baisser son envie et sa motivation à continuer le projet. 
 
 ## Le devoir de chercher le 0 défaut
 
@@ -30,10 +30,8 @@ Obtenir 0 défaut est une mission quasi impossible. Cela n'en reste pas moins l'
 
 ## Le devoir de s'améliorer
 
-Nous ne pouvons pas faire payer à un projet notre envi d'apprendre une nouvelle technologie à nos clients. Nous ne pouvons proposer que des options que nous connaissons, ou bien être très clair sur nos limites. 
+Nous ne pouvons pas faire payer à un projet notre envie d'apprendre une nouvelle technologie à nos clients. Nous ne pouvons proposer que des options que nous connaissons, ou bien être très clair sur nos limites. 
 
 ## Le devoir de former
 
 Ce n'est pas dans une école que la programmation s'apprend actuellement. Nous avons le devoir de former les nouvelles générations de développeurs à ce que nous avons appris, et ne pas laisser cette responsabilité à des sociétés plus ou moins bien intentionnées mettant directement les juniors en façade des clients, en les faisant passer pour des experts. 
-
-
