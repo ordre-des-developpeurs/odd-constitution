@@ -1,11 +1,21 @@
 # Inscription
 
-Participer à la construction et à la vie de l'ordre est ouvert à toute personne étant rémunéré pour développer.
+Participer à la construction et à la vie de l'ordre est ouvert à tout développeur, soit :
+* Toute personne rémunérée pour développer
+* Tout chef d'entreprise pratiquant le développement lui-même
+* Toute personne pratiquant [[régulièrement]] le développement de manière bénévole sur un projet libre.
+* Tout retraité ayant été dans l'une des catégories ci-dessus l'année précédant son départ
+* Tout étudiant se destinant à devenir développeur
 
+Tout changement d'activité impliquant de ne plus développer [[régulièrement]] suspend automatiquement la personne de l'ordre. La même chose est valable pour les étudiants changeant de cursus.
 
 Pour demander votre accès, vous pouvez remplir [ce formulaire](https://docs.google.com/forms/d/1vcOYyt4aTG3NnTcWoEsyaIRjBG9oSS5wVDGFwoBTWK0/viewform?usp=send_form)
 
-Une entreprise ne peut bien entendu pas s'inscrire.
+Une personne morale ne peut bien entendu pas s'inscrire.
+
+# Rôles
+
+Le pouvoir de décision appartient au collège des membres vivant de leur métier de développeur. Les bénévoles, retraités et étudiants ont néanmoins droit à la parole, comme les autres membres.
 
 # Propositions
 
@@ -13,7 +23,7 @@ Si vous désirez qu'un sujet soit discuté, la solution la plus simple pour le m
 
 # Assemblées
 
-La manière de faire avancer l'ordre est pas assemblées constituantes.
+La manière de faire avancer l'ordre est par assemblées constituantes.
 
 Pour se faire :
 
