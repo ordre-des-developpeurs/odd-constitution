@@ -17,11 +17,11 @@ L'ordre se doit donc d'être fondamentalement démocratique, dans le vrai sens d
 
 Même s'il semble intéressant en premier lieu de faire voter les membres de l'ordre, il s'avère que le vote est plus un mécanisme pour contraindre ceux qui ne sont pas d'accord de suivre une décision qui n'est pas la leur.
 
-Le consensus semble donc être la seule voie acceptable, même si c'est la plus dur. Le strict minimun est donc de garantir que tout le monde est l'opportunité d'être entendu
+Le consensus semble donc être la seule voie acceptable, même si c'est la plus dur. Le strict minimum est donc de garantir que tout le monde ait l'opportunité d'être entendu
 
 ## Tirage au sort
 
-Obtenir le consensus de la totalité des membres semble être compliqué une fois un certain nombre atteint. Il est peut être envisageable d'organiser des tirages au sort d'un nombre suffisamment représentatif pour assembler un groupe de travail.
+Obtenir le consensus de la totalité des membres semble être compliqué une fois un certain nombre atteint. Il est peut-être envisageable d'organiser des tirages au sort d'un nombre suffisamment représentatif pour assembler un groupe de travail.
 
 ## Transparence
 
