@@ -6,6 +6,7 @@
 * Permettre aux clients de constituer des équipes de professionnels, fonctionnant bien ensemble
 * Permettre aux développeurs de pouvoir justifier leurs pratiques dans des contextes toxiques
 * Proposer un code de conduite et de pratiques auquel se tenir, afin de respecter les clients
+* Défendre les intérêts du métier, qui ne sont pas toujours les mêmes que ceux du patronat, du salariat ou des entreprises, d'où le besoin d'une structure différente.
 
 ## Ce que l'ordre est
 
