@@ -13,7 +13,7 @@ Un lieu démocratique ou les développeurs cherchent par le consensus un ordre d
 
 Un annuaire auxquels les utilisateurs et clients peuvent se référer pour ne pas confier leur succès sur les promesses invérifiables d'un commercial.
 
-Un endroit de partage de connaissance, ou les nouvelles idées sont les bienvenues.  
+Un endroit de partage de connaissance, ou les nouvelles idées sont les bienvenues.
 
 ## Ce que l'ordre n'est pas
 
@@ -28,7 +28,7 @@ L'ordre n'est pas un organisme de formation et de certification.
 
 [Motivations et inspirations](motivations.md)
 
-[Le professionnel](profesionnel.md)
+[Le professionnel](professionnel.md)
 
 [Code de conduite](code.md)
 

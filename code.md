@@ -1,4 +1,4 @@
-L'ordre est ouvert à toute personne se définissant comme développeur ou développeuses profesionnel.
+L'ordre est ouvert à toute personne se définissant comme développeur ou développeuses professionnel.
 
 # Le code de conduite
 

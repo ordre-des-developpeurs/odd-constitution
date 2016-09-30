@@ -1,4 +1,4 @@
-# Développeur profesionnel
+# Développeur professionnel
 
 * Ecrire du code qui fonctionne ne suffit pas
 * Ecrire du code maintenable est la cle
