@@ -1,4 +1,4 @@
-#Gouvernance
+# Gouvernance
 
 ## Résumé
 
@@ -6,7 +6,7 @@ Les règles qui doivent régir l'ordre ne doivent jamais permettre de favoriser 
 
 Chaque membre doit avoir l'opportunité de donner son avis.
 
-L'ordre doit être résilient à des tentatives d'en faire une organisation commerciale.
+L'ordre doit être résilient à toute tentative d'en faire une organisation commerciale.
 
 L'ordre doit garantir un code de conduite, sans tomber dans le dogmatisme.
 
@@ -17,7 +17,7 @@ L'ordre se doit donc d'être fondamentalement démocratique, dans le vrai sens d
 
 Même s'il semble intéressant en premier lieu de faire voter les membres de l'ordre, il s'avère que le vote est plus un mécanisme pour contraindre ceux qui ne sont pas d'accord de suivre une décision qui n'est pas la leur.
 
-Le consensus semble donc être la seule voie acceptable, même si c'est la plus dur. Le strict minimum est donc de garantir que tout le monde ait l'opportunité d'être entendu
+Le consensus semble donc être la seule voie acceptable, même si c'est la plus dure. Le strict minimum est donc de garantir que tout le monde ait l'opportunité d'être entendu.
 
 ## Tirage au sort
 
@@ -27,4 +27,4 @@ Obtenir le consensus de la totalité des membres semble être compliqué une foi
 
 Toute les modifications des documents de l'ordre sont tracées via l'historique de Git.
 
-Les éventuelles dépenses de l'ordre, ses sources de revenues, ses comptes en banque et ses mouvements seront toujours librement consultable. 
+Les éventuelles dépenses de l'ordre, ses sources de revenues, ses comptes en banque et ses mouvements seront toujours librement consultables.
