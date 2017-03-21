@@ -21,15 +21,3 @@ L'ordre n'est pas un syndicat visant à protéger les développeurs, même les p
 Le mantra est que nous devons d'abord nous changer nous même, afin de changer la vision que le monde a de nous. À partir de là, nous espérons que les relations de confrontation qui sont la norme actuellement entre les développeurs et les autres participants aux projets disparaîtront d'elles mêmes.
 
 L'ordre n'est pas un organisme de formation et de certification.
-
-### Pour en savoir plus
-
-[Motivations et inspirations](motivations.md)
-
-[Le professionnel](professionnel.md)
-
-[Code de conduite](code.md)
-
-[Gouvernance](gouvernance.md)
-
-[Participer](participer.md)

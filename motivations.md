@@ -1,6 +1,6 @@
 # Motiviations
 
-## Le constat
+## Le constat {#constat}
 
 Nous livrons des logiciels chers, en retard, ne délivrant par leurs promesses, remplis de défauts, et devant être réécrits de zéro régulièrement.
 
@@ -12,7 +12,7 @@ Trop de manager voient (à juste titre) les développeurs comme des gamins immat
 
 Nous n'avons pas, en tant que développeur, à nous défendre contre les ESN, nous avons à devenir professionnel. Nous avons une responsabilité énorme : nous faisons tourner le monde, nous ne pouvons pas nous en détourner.
 
-## Les autres professions
+## Les autres professions {#autres}
 
 Les problèmes mis en avant plus haut ne sont pas l'apanage des développeurs. D'autres professions, considérées comme critiques, sont dotées de différents mécanismes pour garantir un niveau de déontologie et de connaissance suffisant pour prétendre pratiquer sa discipline :
 
