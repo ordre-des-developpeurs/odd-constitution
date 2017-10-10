@@ -33,8 +33,12 @@ Le développeur professionnel cherche à tirer une satisfaction dans la pratique
 
 Obtenir 0 défaut est une mission quasi impossible. Cela n'en reste pas moins l'objectif du développeur professionnel. L'existence occasionnelle de bugs ne justifient pas de ne rien faire pour les éviter.
 
-## Le devoir de rendre publique les concessions faites a cette charte sur un projet. {#concessions}
+## Le devoir d'honnêteté {#transparence}
 
+Nous ne pouvons pas progresser sans information correcte.
+Nous sommes parfois amenés à faire des concessions ou des arbitrages.
+En toute honnêteté, lorsque nous devons faire des entorses à cette charte (pour un projet, pour un temps),
+nous devons admettre publiquement ce qui est n'a pas pu être respecté, dans quel contexte et pour quelles raisons.
 
 ## Le devoir de s'améliorer {#amelioration}
 
