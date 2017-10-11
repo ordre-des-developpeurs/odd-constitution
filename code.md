@@ -25,16 +25,15 @@ Le développeur sait qu'il n'écrit pas le code pour lui même, mais pour les fu
 
 Le développeur professionnel sait que ses choix peuvent avoir un impact négatif sur la santé du projet : toute duplication, tout code non testé, est sa responsabilité : les bugs qui en découlent, les délais pour reprendre le code le sont aussi. Ces choix sont entre ses mains.
 
-### Ne pas nous nuire à nous même
+### Ne pas nous nuire à nous-mêmes
 
 Le développeur professionnel cherche à tirer une satisfaction dans la pratique de sa discipline. Il sait donc que tout choix qui va à l'encontre de son éthique ne feront donc que baisser son envie et sa motivation à continuer le projet.
 
-## Le devoir de chercher le 0 défaut {#qualite}
+## Le devoir de chercher le zéro-défaut {#qualite}
 
 Obtenir 0 défaut est une mission quasi impossible. Cela n'en reste pas moins l'objectif du développeur professionnel. L'existence occasionnelle de bugs ne justifient pas de ne rien faire pour les éviter.
 
-## Le devoir de rendre publique les concessions faites a cette charte sur un projet. {#concessions}
-
+## Le devoir de rendre publiques les concessions faites à cette charte sur un projet. {#concessions}
 
 ## Le devoir de s'améliorer {#amelioration}
 
