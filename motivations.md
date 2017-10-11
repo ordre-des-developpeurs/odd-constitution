@@ -1,4 +1,4 @@
-# Motiviations
+# Motivations
 
 ## Le constat {#constat}
 
@@ -18,7 +18,7 @@ Les problèmes mis en avant plus haut ne sont pas l'apanage des développeurs. D
 
 * Les médecins
 * Les comptables
-* Les commissaires au compte
+* Les commissaires aux comptes
 * Les avocats
 
 
