@@ -39,7 +39,7 @@ Obtenir 0 défaut est une mission quasi impossible. Cela n'en reste pas moins l'
 Nous ne pouvons pas progresser sans information correcte.
 Nous sommes parfois amenés à faire des concessions ou des arbitrages.
 En toute honnêteté, lorsque nous devons faire des entorses à cette charte (pour un projet, pour un temps),
-nous devons admettre publiquement ce qui est n'a pas pu être respecté, dans quel contexte et pour quelles raisons.
+nous devons admettre publiquement ce qui n'a pas pu être respecté, dans quel contexte et pour quelles raisons.
 
 ## Le devoir de s'améliorer {#amelioration}
 
