@@ -31,7 +31,7 @@ Le développeur professionnel cherche à tirer une satisfaction dans la pratique
 
 ## Le devoir de chercher le zéro-défaut {#qualite}
 
-Obtenir 0 défaut est une mission quasi impossible. Cela n'en reste pas moins l'objectif du développeur professionnel. L'existence occasionnelle de bugs ne justifient pas de ne rien faire pour les éviter.
+Obtenir 0 défaut est une mission quasi impossible. Cela n'en reste pas moins l'objectif du développeur professionnel. L'existence occasionnelle de bugs ne justifie pas de ne rien faire pour les éviter.
 
 
 ## Le devoir d'honnêteté {#transparence}
